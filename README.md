@@ -13,6 +13,9 @@
 * **[Fortnite-Dart](https://github.com/vanxh/fortnite-dart)**
   * A fortnite api manager library for dart.
 
+* **[Fortnite_Api_Io](https://github.com/vanxh/fortnite_api_io)**
+  * An api wrapper for https://fortniteapi.io in dart.
+
 * **[Gameflip Auto Poster](https://github.com/vanxh/Gameflip-Auto-Poster)**
   * A bot to automate process of posting to gameflip.
 

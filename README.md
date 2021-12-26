@@ -1,6 +1,12 @@
 <div align="center">
 
 ![Discord](https://discord.c99.nl/widget/theme-3/727224012912197652.png)
+ 
+</div>
+
+<div align="center">
+ 
+![Profile Views](https://gpvc.arturio.dev/xFijo)
 
 # Welcome
 

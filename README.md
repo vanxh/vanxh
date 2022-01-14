@@ -5,8 +5,6 @@
 </div>
 
 <div align="center">
- 
-![Profile Views](https://gpvc.arturio.dev/vanxh)
 
 # Welcome
 

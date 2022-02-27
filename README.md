@@ -11,7 +11,7 @@
 </div>
 
 ## My Projects
-* **[Fishstick](https://discord.gg/fishstick)**
+* **[Fishstick](https://github.com/fishstick-bot/fishstick-dart)**
   * A Fortnite bot which helps you to manage your account through discord.
 
 * **[Fortnite-Dart](https://github.com/vanxh/fortnite-dart)**

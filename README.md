@@ -1,41 +1,18 @@
-<div align="center">
+Hi 👋 My name is Vanxh ======================  Fullstack Web/Mobile Developer ------------------------------  Located in India and known as Vanxh, I am a coding enthusiast and developer who specialises in both back-end and front-end development. I have over 2 years experience with HTML, CSS, Javascript and have over 1 year experience and extensive knowledge in backend development in Dart, Typescript, JavaScript and Python and in frontend development with Flutter. I also am the creator and owner of Fishstick bot a multipurpose fortnite discord bot used in over 8k discord servers by over a million users.  * 🌍  I'm based in India * 🖥️  See my portfolio at [vanxh.dev](http://vanxh.dev) * ✉️  You can contact me at [support@vanxh.dev](mailto:support@vanxh.dev) * 🚀  I'm currently working on [Fishstick Bot](http://fishstickbot.com) * 🧠  I'm learning new frameworks * 🤝  I'm open to collaborating on interesting projects
 
-![Discord](https://discord.c99.nl/widget/theme-3/727224012912197652.png)
- 
-</div>
+<a href="https://www.twitter.com/vanxhh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/vanxhh?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/vanxh" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/vanxh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills
 
-<div align="center">
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
+ ### Socials  <p align="left"> <a href="https://discord.com/users/vanxh#6969" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/vanxh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://vanxh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/vanxh.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vanxhh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/vanxh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/vanxhh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
 
-# Welcome
+<b>My GitHub Stats</b>
 
-</div>
+<a href="http://www.github.com/vanxh"><img src="https://github-readme-stats.vercel.app/api?username=vanxh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="vanxh's GitHub stats" /></a>
+<a href="http://www.github.com/vanxh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vanxh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/vanxh"><img src="https://activity-graph.herokuapp.com/graph?username=vanxh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/vanxh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanxh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Support Me
 
-## My Projects
-* **[Fishstick](https://github.com/fishstick-bot/fishstick-dart)**
-  * A Fortnite bot which helps you to manage your account through discord.
-
-* **[Fortnite-Dart](https://github.com/vanxh/fortnite-dart)**
-  * A fortnite api manager library for dart.
-
-* **[Fortnite_Api_Io](https://github.com/vanxh/fortnite_api_io)**
-  * An api wrapper for https://fortniteapi.io in dart.
-
-* **[Gameflip Auto Poster](https://github.com/vanxh/Gameflip-Auto-Poster)**
-  * A bot to automate process of posting to gameflip.
-
-* **[Fishstick Launcher](https://github.com/vanxh/Fishstick-Launcher)**
-  * A fortnite launcher which helps you switch your account easily and launch game on them.
-
-## Socials
-<a href="https://twitter.com/Vanxhh">
-        <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/twitter_online_social_media-512.png" height="60px" draggable="false" alt="Twitter"/>
-    </a>
-   
-</br>
-<p align="left">
-</a> 
-</p>
-
-## Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanxh&layout=compact" alt="Github Stats"/>
-<img src="https://github-readme-stats.vercel.app/api?username=vanxh&show_icons=true&theme=dark&count_private=true" alt="Github Stats"/>
+<a href="https://www.buymeacoffee.com/vanxh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

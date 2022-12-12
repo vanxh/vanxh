@@ -1,15 +1,14 @@
 Hi 👋 My name is Vanxh
 ======================
 
-Fullstack Web/Mobile Developer
+Fullstack Developer
 ------------------------------
 
-Located in India and known as Vanxh, I am a coding enthusiast and a fullstack developer. I also am the creator and owner of Fishstick bot a multipurpose fortnite discord bot used in over 13k discord servers by over a million users.  
+Located in India and known as Vanxh, I am a coding enthusiast and a fullstack developer. I also am the creator and owner of Fishstick bot a multipurpose fortnite discord bot which used to be used in over 18k discord servers by over a million users. 
 
 * 🌍  I'm based in India 
 * 🖥️  See my portfolio at [vanxh.dev](http://vanxh.dev) 
-* ✉️  You can contact me at [support@vanxh.dev](mailto:support@vanxh.dev) 
-* 🚀  I'm currently working on [Fishstick Bot](http://fishstickbot.com) 
+* ✉️  You can contact me at [hello@vanxh.dev](mailto:hellol@vanxh.dev)
 * 🧠  I'm learning new frameworks 
 * 🤝  I'm open to collaborating on interesting projects
 

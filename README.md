@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Altura](https://alturanft.com)<br>🌱 I’m currently learning new frameworks<br>👨‍💻 All of my projects are available at [github.com/vanxh](https://github.com/vanxh)<br>📝 I sometimes write blogs on [dev.to](https://vanxh.dev/blog)<br>💬 Ask me about typescript, nextjs, react, tailwind css<br>📫 How to reach me hello@vanxh.dev<br>📄 Know about my experiences [vanxh.dev](https://vanxh.dev)
+🔭 I’m currently building [OpenBio](https://openbio.app)<br>🌱 I’m currently learning new frameworks<br>👨‍💻 All of my projects are available at [github.com/vanxh](https://github.com/vanxh)<br>📝 I sometimes write blogs on [dev.to](https://vanxh.dev/blog)<br>💬 Ask me about typescript, nextjs, react, tailwind css<br>📫 How to reach me hello@vanxh.dev<br>📄 Know about my experiences [vanxh.dev](https://vanxh.dev)
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building [OpenBio](https://openbio.app)<br>🌱 I’m currently learning Rust<br>👨‍💻 All of my projects are available at [github.com/vanxh](https://github.com/vanxh)<br>📝 I sometimes write blogs on [dev.to](https://vanxh.dev/blog)<br>💬 Ask me about Typescript, NextJS, React, TailwindCSS, TRPC, Dart, Rust, Solidity<br>📫 How to reach me hello@vanxh.dev<br>📄 Know about my experiences [vanxh.dev](https://vanxh.dev)
+🔭 I’m currently building [LookCrafted](https://lookcrafted.com)<br>🌱 I’m currently learning Rust<br>👨‍💻 All of my projects are available at [github.com/vanxh](https://github.com/vanxh)<br>📝 I sometimes write blogs on [dev.to](https://vanxh.dev/blog)<br>💬 Ask me about Typescript, NextJS, React, TailwindCSS, TRPC, Dart, Rust, Solidity<br>📫 How to reach me hello@vanxh.dev<br>📄 Know about my experiences [vanxh.dev](https://vanxh.dev)
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=vanxh&icon=1&color=9)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vanxh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vanxh) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vanxh) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vanxhh)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
